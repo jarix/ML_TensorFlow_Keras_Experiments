@@ -1,3 +1,4 @@
 .venv/
 *.keras
 hyperparam_tuning/
+data/dogs_vs_cats_small/
