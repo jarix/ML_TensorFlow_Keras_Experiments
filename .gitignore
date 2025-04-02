@@ -2,3 +2,5 @@
 *.keras
 hyperparam_tuning/
 data/dogs_vs_cats_small/
+my_diffusion_model/
+
